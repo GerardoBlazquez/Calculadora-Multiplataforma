@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+X-COMMENT: Main-Class will be added automatically by build
+
+Main-Class: Calculadora
+Class-Path: lib/exp4j-0.4.8.jar lib/MathParser.org-mXparser.jar
